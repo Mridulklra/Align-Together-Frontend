@@ -14,3 +14,16 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+Align Together – Frontend
+
+This is the frontend of the Align Together project built using React and Vite. The project has a clean structure with all source code inside the src folder and static assets inside public. Vite is used for fast development, hot module reload, and optimized builds.
+
+How to run the project
+
+First, clone the repository and move into the project directory. Install all dependencies using npm install. After the installation is complete, start the development server using npm run dev. The application will run locally and can be accessed in the browser. For production, you can create a build using npm run build.
+
+Tech used
+
+React, Vite, JavaScript, HTML, and CSS.
